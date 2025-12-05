@@ -1,0 +1,49 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Documentation and Guide Files (for personal use, not for GitHub)
+START_HERE.md
+QUICK_REFERENCE.md
+ENV_SETUP_GUIDE.md
+ENVIRONMENT_CHANGES_SUMMARY.md
+CHANGES_COMPLETED.md
+PROJECT_STRUCTURE.md
+GIT_PUSH_GUIDE.md
+PUSH_TO_GITHUB_CHECKLIST.md
+READY_TO_PUSH.md
+GITIGNORE_UPDATED.md
+FINAL_SUMMARY.md
+AVAILABLE_DOCUMENTATION.md
+CURRENT_STATUS.md
+DEPLOYMENT_GUIDE.md
+DEPLOYMENT_QUICK_START.md
+DEPLOYMENT_NOTES.md
+START_DEPLOYMENT.md
+DEPlOY_NOW.md
+ESLINT_FIXES.md
+NETLIFY_DEBUG.md
+NETLIFY_SETUP.md
