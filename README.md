@@ -134,7 +134,7 @@ Password: instructor123
 
 ### Clone Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/learnedge.git
+git clone https://github.com/JannuHans/Study-Notion.git
 cd learnedge
 ```
 
@@ -424,12 +424,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Akhilesh Pratap Singh**
+**Jannu Hans**
 
-- GitHub: [@Akhilesh Pratap Singh](https://github.com/your-username)
-- LinkedIn: [Akhilesh Pratap Singh](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- GitHub: [@Jannu Hans](https://github.com/JannuHans)
+- LinkedIn: [Jannu Hans](https://www.linkedin.com/in/jannu-hans-16181a2a1/)
+- Email: jannuhans8@gmail.com
+- Portfolio: [Jannu Hans](https://portfolio-chi-woad-47.vercel.app/)
 
 ---
 
@@ -477,7 +477,7 @@ Give a ⭐️ if you like this project!
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Akhilesh Pratap Singh</p>
+  <p>Made with ❤️ by Jannu Hans</p>
   <p>© 2025 LearnEdge. All rights reserved.</p>
 </div>
 
