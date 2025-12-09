@@ -1,4 +1,4 @@
-# 🎓 LearnEdge - EdTech Platform
+# 🎓 Study Notion - EdTech Platform
 
 A full-stack educational technology platform built with the MERN stack, enabling instructors to create and sell courses while providing students with a seamless learning experience.
 
@@ -90,7 +90,7 @@ A full-stack educational technology platform built with the MERN stack, enabling
 
 ## 🎬 Demo
 
-🔗 **Live Demo**: https://courageous-shortbread-7b78e0.netlify.app/
+🔗 **Live Demo**: https://pathsala-beta.vercel.app
 
 ### Test Credentials
 ```
@@ -196,7 +196,7 @@ npm run dev
 ```
 
 ### Access Application
-- Frontend: https://courageous-shortbread-7b78e0.netlify.app/
+- Frontend: https://pathsala-beta.vercel.app
 - Backend: https://learnedge-backend-rn1w.onrender.com
 
 ---
